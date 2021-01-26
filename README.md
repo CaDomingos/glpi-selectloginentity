@@ -1,1 +1,1 @@
-# selectloginentity
+# glpi-selectloginentity
